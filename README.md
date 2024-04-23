@@ -1,2 +1,3 @@
-javac Berkeley.java
-java Berkeley
+>> javac Berkeley.java
+
+>> java Berkeley
