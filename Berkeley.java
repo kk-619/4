@@ -69,3 +69,8 @@ public class Berkeley {
         System.out.println("Adjusted time: " + calendar.getTime());
     }
 }
+/*
+* cmds:
+* javac *.java
+* java Berkeley
+*/
